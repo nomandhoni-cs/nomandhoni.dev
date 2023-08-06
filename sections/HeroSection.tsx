@@ -102,8 +102,8 @@ const HeroSection: React.FC = () => {
               height={1374}
               priority
               id="character-illustration"
-              aria-label="Sat Naing character illustration levitating with a Macbook"
-              alt="Sat Naing character illustration"
+              aria-label="Noman Dhoni character illustration levitating with a Macbook"
+              alt="Noman Dhoni character illustration"
             />
           </div>
           <div className="laptop absolute top-14 sm:top-16 left-0 scale-[.41] xs:scale-[.45] pointer-events-none">
@@ -124,7 +124,7 @@ const HeroSection: React.FC = () => {
         </span>
         <div className="overflow-hidden">
           <h1 className="text-animation text-4xl md:text-5xl lg:text-7xl md:my-2 font-semibold my-1">
-            Sat Naing
+            Noman Dhoni
           </h1>
         </div>
         <div className="overflow-hidden">
