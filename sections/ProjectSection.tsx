@@ -53,7 +53,7 @@ const ProjectSection: React.FC = () => {
       <div className="others text-center mb-16">
         Other projects can be explored in{" "}
         <a
-          href="https://github.com/satnaing"
+          href="https://github.com/nomandhon-cs"
           className="font-medium underline link-outline text-marrsgreen dark:text-carrigreen whitespace-nowrap"
         >
           my github profile
@@ -65,7 +65,7 @@ const ProjectSection: React.FC = () => {
 
 const projects = [
   {
-    title: "Terminal Portfolio",
+    title: "Chroma Course",
     type: "Frontend",
     image: (
       <Image
@@ -83,7 +83,7 @@ const projects = [
     bgColor: "bg-[#B4BEE0]",
   },
   {
-    title: "Haru Fashion",
+    title: "Showwand",
     type: "Frontend",
     image: (
       <Image
