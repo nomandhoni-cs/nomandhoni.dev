@@ -45,8 +45,8 @@ const Footer: React.FC<Props> = ({ noPadding = false }) => {
 const socialLinks = [
   {
     id: 1,
-    title: "Sat Naing's Github Profile",
-    link: "https://github.com/satnaing",
+    title: "Noman Dhoni's Github Profile",
+    link: "https://github.com/nomandhoni-cs",
     svg: (
       <svg
         xmlns="http://www.w3.org/2000/svg"
@@ -64,8 +64,8 @@ const socialLinks = [
   },
   {
     id: 2,
-    title: "Sat Naing's LinkedIn Profile",
-    link: "https://www.linkedin.com/in/satnaing/",
+    title: "Noman Dhoni's LinkedIn Profile",
+    link: "https://www.linkedin.com/in/nomandhoni/",
     svg: (
       <svg
         xmlns="http://www.w3.org/2000/svg"
@@ -95,8 +95,8 @@ const socialLinks = [
   },
   {
     id: 4,
-    title: "Sat Naing's Profile on Facebook",
-    link: "https://www.facebook.com/satnaing.dev",
+    title: "Noman Dhoni's Profile on Facebook",
+    link: "https://www.facebook.com/dhoni.noman",
     svg: (
       <svg
         xmlns="http://www.w3.org/2000/svg"
