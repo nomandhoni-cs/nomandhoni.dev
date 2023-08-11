@@ -21,7 +21,7 @@ type Props = {
 
 export const meta = {
   description:
-    "Noman Dhoni is a full-stack developer based in Dhaka, Bangladesh. He is passionate about writing codes and developing web applications to solve real-life challenges.",
+    "Noman Dhoni is a Software developer doing Front-End and Backend with JavaScript, TypeScript based in Dhaka, Bangladesh. He is passionate about writing codes and developing web applications to solve real-life challenges.",
   author: "Noman Dhoni",
   type: "website",
   ogImage: `${process.env.NEXT_PUBLIC_URL}/satnaing-dev-og-new.png`,
@@ -33,11 +33,11 @@ const Home: NextPage<Props> = ({ blogPosts }) => {
   return (
     <>
       <AppHead
-        title="Noman Dhoni - A Full-stack Developer"
+        title="Noman Dhoni - A Front-End (React JS) Developer"
         url={`${process.env.NEXT_PUBLIC_URL}`}
         meta={meta}
       />
-      <Loader>NomanDhoni.dev</Loader>
+      <Loader>NomanDhoni.tech</Loader>
       <div className="bg-bglight dark:bg-bgdark overflow-hidden">
         <div className="selection:bg-marrsgreen selection:text-bglight dark:selection:bg-carrigreen dark:selection:text-bgdark">
           <SkipToMain />

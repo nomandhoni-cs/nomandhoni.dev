@@ -66,7 +66,7 @@ const ProjectSection: React.FC = () => {
 const projects = [
   {
     title: "Chroma Course",
-    type: "Frontend",
+    type: "FrontEnd",
     image: (
       <Image
         src={terminalPortfolio}
@@ -78,13 +78,13 @@ const projects = [
     ),
     desc: "My portfolio website in terminal version developed with React and TypeScript. In this project, styled-components library is used for styling and multiple themes supported.",
     tags: ["React", "TypeScript", "Styled-Components"],
-    liveUrl: "https://terminal.satnaing.dev/",
-    codeUrl: "https://github.com/satnaing/terminal-portfolio",
+    liveUrl: "https://chroma-course.netlify.app/",
+    codeUrl: "https://github.com/nomandhoni-cs/chroma-course",
     bgColor: "bg-[#B4BEE0]",
   },
   {
     title: "Showwand",
-    type: "Frontend",
+    type: "FrontEnd",
     image: (
       <Image
         src={haruFashion}
@@ -96,8 +96,8 @@ const projects = [
     ),
     desc: "An ecommerce web application where users can browse various products, add to wishlist, add to cart, and make purchase. Available in English and Burmese languages.",
     tags: ["NextJS", "TypeScript", "TailwindCSS", "ContextAPI"],
-    liveUrl: "https://haru-fashion.vercel.app/",
-    codeUrl: "https://github.com/satnaing/haru-fashion",
+    liveUrl: "https://showwand.vercel.app/",
+    codeUrl: "https://github.com/nomandhoni-cs/Showwand-Website",
     bgColor: "bg-[#A6CECE]",
   },
   {

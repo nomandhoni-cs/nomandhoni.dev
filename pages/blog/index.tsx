@@ -21,7 +21,7 @@ const Blog: NextPage<Props> = ({ posts }) => {
   return (
     <>
       <AppHead title="Blog - Sat Naing" />
-      <Loader>Sat Naing&apos;s Blog</Loader>
+      <Loader>Noman Dhoni&apos;s Blog</Loader>
       <div className="bg-bglight dark:bg-bgdark min-h-screen">
         <div className="selection:bg-marrsgreen selection:text-bglight dark:selection:bg-carrigreen dark:selection:text-bgdark">
           <SkipToMain />
