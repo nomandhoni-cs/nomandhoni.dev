@@ -129,17 +129,16 @@ const HeroSection: React.FC = () => {
         </div>
         <div className="overflow-hidden">
           <span className="text-animation text-2xl md:text-3xl lg:text-5xl block md:my-3 text-marrsgreen dark:text-carrigreen font-medium">
-            A Full-stack Developer
+            A Software Developer
           </span>
         </div>
         <div className="mt-2 my-4 md:mb-8">
           <p className="mb-1">
-            I am a Full-Stack Developer with a passion for delivering
-            exceptional results.
+            I am a Front-End JavaScript Developer with a passion for delivering
+            exceptional results, I am going in the path of Full Stack development.
           </p>
           <p>
-            With my expertise in React and NextJS on the frontend, and PHP,
-            CodeIgniter, NodeJS, and Express on the backend, I bring a unique
+            With my expertise in React and NextJS on the frontend, NodeJS, and Express on the backend, I bring a unique
             combination of technical skills and creative problem-solving to
             every project I work on.
           </p>
