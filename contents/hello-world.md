@@ -13,7 +13,7 @@ tags:
   - NextJS
   - ContextAPI
   - TailwindCSS
-author: Sat Naing
+author: Noman Dhoni
 coverImage: https://res.cloudinary.com/noezectz/image/upload/v1647688482/SatNaing/haru-fashion-og_qotvvg.png
 coverImageAlt: Haru Fashion website on a laptop and a mobile device
 coverImageWidth: "1200"
