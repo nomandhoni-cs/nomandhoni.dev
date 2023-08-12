@@ -95,11 +95,11 @@ fields:
   description: Tags for the post
 - name: author
   type: select
-  default: Sat Naing
+  default: Noman Dhoni
   config:
     required: true
     options:
-    - Sat Naing
+    - Noman Dhoni
     source:
       type: simple
       section: 

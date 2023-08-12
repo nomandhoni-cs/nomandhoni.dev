@@ -9,7 +9,7 @@ excerpt:
 datetime: 2020-06-17T05:35:07.000+00:00
 featured: false
 category: Random
-author: Sat Naing
+author: Noman Dhoni
 type: article
 coverImage: https://res.cloudinary.com/noezectz/image/upload/v1647791837/SatNaing/tip-calculator_mkdj8a.png
 coverImageAlt: Tip calculator website on a laptop and a mobile device
