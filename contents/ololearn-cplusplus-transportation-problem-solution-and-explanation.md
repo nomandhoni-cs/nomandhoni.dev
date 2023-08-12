@@ -3,9 +3,9 @@ coverImageWidth: "1200"
 coverImageHeight: "700"
 datetime: 2021-09-29T16:55:12.000+00:00
 tags:
-  - JavaScript
   - Problem Solving
   - Sololearn
+  - Programming
   - C++
   - Blog
 author: Noman Dhoni
@@ -14,15 +14,12 @@ coverImage: https://1.bp.blogspot.com/-8jNM-PLWZ0s/YRxJs4n604I/AAAAAAAABls/UJ_hL
 coverImageAlt: Sololearn C++ 'Transportation' problem solution and explanation text
 title: Sololearn C++ 'Transportation' problem solution and explanation.
 description:
-  My experience about developing my first portfolio website and a blog
-  using NextJS and a headless CMS.
+  Problem Solving Sololearn C++ problem and solving solution and explanation
 excerpt:
-  My journey about planning, designing and developing my very first portfolio
-  website and my personal blog. Thoughts about my motivation for this project and
-  experiences.
+  My journey about problem solving solution and in Sololearn C++ problem and solving solution. My Approach to solve solution and explanation.
 slug: sololearn-cplusplus-transportation-problem-solution-and-explanation
 featured: true
-category: How Do I
+category: Problem Solving
 language: English
 ---
 
