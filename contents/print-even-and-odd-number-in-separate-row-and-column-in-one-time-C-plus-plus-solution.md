@@ -24,7 +24,6 @@ category: Problem Solving
 ## Problem: Printing Even and Odd Numbers
 
 Suppose you are a book writer and you need to quickly print even and odd numbers from 1 to a given value 'n' in separate rows or columns. Let's solve this problem using a simple C++ program.
-![Image of Print Even and Odd Number in separate row/colum in one time - [C++ Solution]](https://1.bp.blogspot.com/-L7kpuCIG0jc/YRxhWfBR00I/AAAAAAAABmE/Fb--5THd2e4ulsdxjVUHOGa4PoLsz7wfwCLcBGAsYHQ/s1280/5.webp "Print Even and Odd Number in separate row/colum in one time - [C++ Solution]")
 
 ## Problem Solution
 

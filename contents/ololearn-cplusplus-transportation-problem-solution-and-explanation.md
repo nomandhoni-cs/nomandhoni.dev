@@ -31,7 +31,6 @@ The next one will leave 76 - 50 = 26 in the station. Thus, the last bus will tak
 ## Problem Hint:
 The modulo operator (%) can help to determine the number of passengers for the last bus.
 
-![Image of the Thumbnail](https://1.bp.blogspot.com/-8jNM-PLWZ0s/YRxJs4n604I/AAAAAAAABls/UJ_hLVYp6p47mj9TFzNtTAdwJr_v3lFBQCLcBGAsYHQ/s1280/2.webp "Image of the Thumbnail")
 
 ## Problem Solution
 
