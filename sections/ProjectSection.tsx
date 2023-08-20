@@ -8,10 +8,10 @@ import { useSection } from "context/section";
 import useOnScreen from "hooks/useOnScreen";
 import useScrollActive from "hooks/useScrollActive";
 
-import terminalPortfolio from "public/projects/terminal-portfolio.webp";
-import haruFashion from "public/projects/haru-fashion.webp";
-import haruApi from "public/projects/haru-api.webp";
-import astroPaper from "public/projects/astro-paper.webp";
+import chromacourse from "public/projects/chromacourse.webp";
+import showwandwebsite from "public/projects/showwandwebsite.webp";
+import showwandextension from "public/projects/showwandextension.webp";
+import formapp from "public/projects/formapp.webp";
 
 const ProjectSection: React.FC = () => {
   const { theme } = useTheme();
@@ -69,28 +69,28 @@ const projects = [
     type: "FrontEnd",
     image: (
       <Image
-        src={terminalPortfolio}
+        src={chromacourse}
         sizes="100vw"
         fill
-        alt="Terminal Portfolio"
+        alt="Chroma Course"
         className="transition-transform duration-500 hover:scale-110 object-cover"
       />
     ),
     desc: "My portfolio website in terminal version developed with React and TypeScript. In this project, styled-components library is used for styling and multiple themes supported.",
-    tags: ["React", "TypeScript", "Styled-Components"],
+    tags: ["React", "JavaScript", "Bootstrap", "Context API", "SweetAlert"],
     liveUrl: "https://chroma-course.netlify.app/",
     codeUrl: "https://github.com/nomandhoni-cs/chroma-course",
     bgColor: "bg-[#B4BEE0]",
   },
   {
-    title: "Showwand",
+    title: "Showwand - Website",
     type: "FrontEnd",
     image: (
       <Image
-        src={haruFashion}
+        src={showwandwebsite}
         sizes="100vw"
         fill
-        alt="Haru Fashion App"
+        alt="Showwand - Website"
         className="transition-transform duration-500 hover:scale-110 object-cover"
       />
     ),
@@ -101,29 +101,29 @@ const projects = [
     bgColor: "bg-[#A6CECE]",
   },
   {
-    title: "Haru API",
+    title: "Showwand - Browser Extension",
     type: "Backend",
     image: (
       <Image
-        src={haruApi}
+        src={showwandextension}
         sizes="100vw"
         fill
-        alt="Haru API"
+        alt="Showwand - Browser Extension"
         className="transition-transform duration-500 hover:scale-110 object-cover"
       />
     ),
     desc: "A RESTful API developed for Haru fashion ecommerce project. Include CRUD operations, authentication, authorization, forgot/reset password and full-text search.",
-    tags: ["ExpressJS", "TypeScript", "PostgreSQL", "Prisma"],
-    liveUrl: "https://satnaing.github.io/haru-api/",
-    codeUrl: "https://github.com/satnaing/haru-api",
+    tags: ["JavaScript", "HTML", "CSS"],
+    liveUrl: "https://chrome.google.com/webstore/detail/showwand/eccblhhmiljocdidkkcaidegfdoophga",
+    codeUrl: "https://github.com/nomandhoni-cs/Showwand",
     bgColor: "bg-[#C5E4E7]",
   },
   {
-    title: "AstroPaper",
-    type: "Frontend",
+    title: "Form App",
+    type: "Full Stack",
     image: (
       <Image
-        src={astroPaper}
+        src={formapp}
         sizes="100vw"
         fill
         alt="AstroPaper"
@@ -131,9 +131,9 @@ const projects = [
       />
     ),
     desc: "A minimal, responsive and SEO-friendly blog theme for Astro. This theme is developed with Astro, TypeScript and React. This theme includes fuzzy-search, pagination etc.",
-    tags: ["Astro", "TypeScript", "React", "TailwindCSS"],
-    liveUrl: "https://astro-paper.pages.dev/",
-    codeUrl: "https://github.com/satnaing/astro-paper",
+    tags: ["React", "JavaScript", "Express", "Node JS", "BootStrap"],
+    liveUrl: "https://form-task-client-gilt.vercel.app/",
+    codeUrl: "https://github.com/nomandhoni-cs/form-task-101",
     bgColor: "bg-[#9FD0E3]",
   },
 ];
