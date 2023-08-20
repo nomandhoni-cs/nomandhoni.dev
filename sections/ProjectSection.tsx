@@ -76,7 +76,7 @@ const projects = [
         className="transition-transform duration-500 hover:scale-110 object-cover"
       />
     ),
-    desc: "My portfolio website in terminal version developed with React and TypeScript. In this project, styled-components library is used for styling and multiple themes supported.",
+    desc: "A course Selling website made with React JS. Here you can sell your courses in Programming, Design and Crafts.",
     tags: ["React", "JavaScript", "Bootstrap", "Context API", "SweetAlert"],
     liveUrl: "https://chroma-course.netlify.app/",
     codeUrl: "https://github.com/nomandhoni-cs/chroma-course",
@@ -94,7 +94,7 @@ const projects = [
         className="transition-transform duration-500 hover:scale-110 object-cover"
       />
     ),
-    desc: "An ecommerce web application where users can browse various products, add to wishlist, add to cart, and make purchase. Available in English and Burmese languages.",
+    desc: "A website that I made for my Browser Extension 'Showwand' and in this website you will get automated download link based on your browser and This website will help you to know how this works.",
     tags: ["NextJS", "TypeScript", "TailwindCSS", "ContextAPI"],
     liveUrl: "https://showwand.vercel.app/",
     codeUrl: "https://github.com/nomandhoni-cs/Showwand-Website",
@@ -112,7 +112,7 @@ const projects = [
         className="transition-transform duration-500 hover:scale-110 object-cover"
       />
     ),
-    desc: "A RESTful API developed for Haru fashion ecommerce project. Include CRUD operations, authentication, authorization, forgot/reset password and full-text search.",
+    desc: "A Browser extension for 'Showwcase', By this Browser extension you can post, do interaction, get updated about the Showwcase platform.",
     tags: ["JavaScript", "HTML", "CSS"],
     liveUrl: "https://chrome.google.com/webstore/detail/showwand/eccblhhmiljocdidkkcaidegfdoophga",
     codeUrl: "https://github.com/nomandhoni-cs/Showwand",
@@ -126,11 +126,11 @@ const projects = [
         src={formapp}
         sizes="100vw"
         fill
-        alt="AstroPaper"
+        alt="Form App"
         className="transition-transform duration-500 hover:scale-110 object-cover"
       />
     ),
-    desc: "A minimal, responsive and SEO-friendly blog theme for Astro. This theme is developed with Astro, TypeScript and React. This theme includes fuzzy-search, pagination etc.",
+    desc: "A minimal, Form app that is Based on Basic Crud operations. Where you can submit what field are you in, also you can delete info.",
     tags: ["React", "JavaScript", "Express", "Node JS", "BootStrap"],
     liveUrl: "https://form-task-client-gilt.vercel.app/",
     codeUrl: "https://github.com/nomandhoni-cs/form-task-101",
